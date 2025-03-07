@@ -27,7 +27,7 @@ def tocar_alarme(arquivo_som="alerta.wav"):
         print(f"Erro ao tocar o alarme: {e}")
 
 #
-#
+# Função Principal para Processamento do Vídeo do Supermercado ...
 #
 def processar_video(video_input, video_output, modelo_path, som_alerta="alerta.wav"):
     
